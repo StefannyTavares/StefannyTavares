@@ -6,9 +6,9 @@
     <a href="https://www.linkedin.com/in/stefanny-tavares-da-silva-768806228/">Stefanny Tavares ✨</a>
   </h1>
   
-  <p align="center">
+  <h3 align="center">
     Sou Desenvolvedora Front End Júnior | UX | UI designer 
-  </p>
+  </h3>
   
 </div>
 
@@ -16,6 +16,8 @@
   <a href="https://github.com/StefannyTavares">
 </div>
 
+  <hr>
+  <h3>Competências:</h3>
 <div align="center" valign="top"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -31,20 +33,19 @@
   <br><br>
   <img align="center" alt="figma" height="30" width="90" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="gimp" height="30" width="70" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white">
-  
-  
-</div><br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/stefanny-tavares-da-silva-768806228/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <img align="center" alt="canva" height="30" width="90" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 </div>
+  
+ <h3>Conhecimento intermediário:</h3>
+ <div align="center" valign="top"><br>
+   <img align="center" alt="photoshop" height="30" width="130" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+      <img align="center" alt="behance" height="30" width="100" src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white">
+         <img align="center" alt="adobexd" height="30" width="100" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
+
+</div><br>
 
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
-</div>
-
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
 </div>
